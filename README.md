@@ -1,6 +1,6 @@
 # zero_shot_visual_imitation
 
-Effecient zero-shot goal planning.
+Efficient zero-shot goal planning.
 
 ```sh
 # dependencies
