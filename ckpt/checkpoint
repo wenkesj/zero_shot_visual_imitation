@@ -1,0 +1,2 @@
+model_checkpoint_path: "vizdoom-9000"
+all_model_checkpoint_paths: "vizdoom-9000"
