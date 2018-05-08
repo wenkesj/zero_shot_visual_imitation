@@ -4,7 +4,10 @@ Efficient zero-shot goal planning.
 
 ```sh
 # dependencies
-sudo pip install gym matplotlib numpy scipy tensorflow tqdm vizdoom git+https://github.com/wenkesj/alchemy
+pip install gym matplotlib numpy scipy tensorflow tqdm vizdoom
+# install the zero_shot branch
+git clone -b zero_shot https://git@github.com/wenkesj/alchemy.git ~/alchemy
+(cd ~/alchemy; sudo pip install .)
 ```
 
 <div align="center">
